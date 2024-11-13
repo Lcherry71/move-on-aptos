@@ -1,5 +1,4 @@
 [alias]
-x = "run --package x --bin x --"
 xcheck = "run --package x --bin x -- check"
 xfmt = "run --package x --bin x -- fmt"
 xfix = "run --package x --bin x -- fix"
